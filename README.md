@@ -2,14 +2,14 @@
 
 # Project Name
 
-> Description the project.
+> This project is created to simulate a real-time chat application.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Javascript
+- Frameworks: Nodejs, React JS
+- Dependencies: Axios, express, cors
 
 ## Live Demo (if available)
 
@@ -18,8 +18,10 @@
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+**This project is created to simulate a real**
+-Chat engine used
+ https://chatengine.io/projects/5870afd2-c6ef-4dd3-83cd-373bbb9fc6ea
+
 
 
 To get a local copy up and running follow these simple example steps.
