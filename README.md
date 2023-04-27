@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Nodejs-React-ChatApp
 
 > This project is created to simulate a real-time chat application.
 
