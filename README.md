@@ -22,6 +22,8 @@
 -Chat engine used
  https://chatengine.io/projects/5870afd2-c6ef-4dd3-83cd-373bbb9fc6ea
 
+ https://github.com/chatengine-io/react-chat-engine-advanced
+
 
 
 To get a local copy up and running follow these simple example steps.
