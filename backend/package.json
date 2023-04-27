@@ -4,7 +4,7 @@
   "description": "nodejs backend for chat app",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon index.js"
   },
   "author": "Richard Opiyo",
   "license": "ISC",
