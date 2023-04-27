@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Nodejs-React-ChatApp
 
 > This project is created to simulate a real-time chat application.
 
@@ -8,6 +8,7 @@
 ## Built With
 
 - Javascript
+- VITE
 - Frameworks: Nodejs, React JS
 - Dependencies: Axios, express, cors
 
@@ -17,40 +18,36 @@
 
 
 ## Getting Started
-
-**This project is created to simulate a real**
 -Chat engine used
  https://chatengine.io/projects/5870afd2-c6ef-4dd3-83cd-373bbb9fc6ea
 
  https://github.com/chatengine-io/react-chat-engine-advanced
 
 
+## To get a local copy up and running follow these simple example steps.
 
-To get a local copy up and running follow these simple example steps.
+- git clone the project using 
 
-### Prerequisites
+'git clone https://github.com/richardoppiyo/nodejs-react-chatapp.git'
 
 ### Setup
 
-### Install
+## backend server
+- cd into backed
+ run 'npm i'
+ run 'nodemon run start'
 
-### Usage
-
-### Run tests
-
-### Deployment
+## front end
+- cd into front end
+ run 'npm i'
+ run 'npm run dev'
+-check localhost 5173/
 
 
 
 ## Authors
 
 👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
